@@ -22,5 +22,4 @@ INSTALL VSCODE FOR PROGRAM EDITING.
 
 You can change password using these steps :xampp(app)>under sql click on admin>cecbank database.
 
-
-INSTAGRAM ID:afridpashahp
+Dm for code (100rs (+250rs with report)):@afridpashahp
